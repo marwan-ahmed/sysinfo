@@ -97,6 +97,6 @@
     End Sub
 
     Private Sub حولToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles حولToolStripMenuItem.Click
-        MsgBox("دفتر الملاحظات الاصدار الاول من مروان احمد", MsgBoxStyle.Information, "حول")
+            MsgBox("دفتر الملاحظات الاصدار الاول من اشرف وسام", MsgBoxStyle.Information, "حول")
     End Sub
 End Class
